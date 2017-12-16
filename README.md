@@ -6,7 +6,9 @@
 
 	1) git clone https://github.com/mda1997/gulp_sample.git
 	
-	2) npm i
+	2) cd gulp_sample
+	
+	3) npm i
 
 Команды:
 
