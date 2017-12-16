@@ -1,6 +1,12 @@
 # gulp_sample
 
-gulp_sample
+Установка
+
+Выполнить команды в папке проекта:
+
+	1) git clone https://github.com/mda1997/gulp_sample.git
+	
+	2) nmp i
 
 Команды:
 
